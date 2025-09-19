@@ -3,12 +3,12 @@ This program extract all unique words from a source document while filtering out
 • Extracting Unique Words  
 • Exclusion Filtering from the given files(case-insensitive)
 ## Usage
-**This program uses C99 standard.**
+**This program uses C99 standard.  **
 Compile using
 ```c
 make
 ```
-Then run and use using
+Then run and use
 ```bash
 ./vocab_processor source_file exclusion_file_1 exclusion_file_2 ... > Output
 ```
