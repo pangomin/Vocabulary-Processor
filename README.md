@@ -3,7 +3,7 @@ This program extract all unique words from a source document while filtering out
 • Extracting Unique Words  
 • Exclusion Filtering from the given files(case-insensitive)
 ## Usage
-**This program uses C99 standard.  **
+**This program uses C99 standard.**  
 Compile using
 ```c
 make
