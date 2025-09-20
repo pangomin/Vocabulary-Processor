@@ -1,5 +1,5 @@
 # What it does?
-This program extract all unique words from a source document while filtering out common words, slang, or any other unwanted terms specified in exclusion files. Steps:  
+This program extracts all unique words from a source document while filtering out common words, slang, or any other unwanted terms specified in exclusion files. Steps:  
 • Extracting Unique Words  
 • Exclusion Filtering from the given files(case-insensitive)
 ## Usage
